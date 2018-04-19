@@ -1,0 +1,13 @@
+@import 'variables';
+
+.SearchBar {
+width: 100;
+border: solid 3px;
+border-bottom: solid 3px;
+margin-bottom: 10px;
+}
+
+&:focus {
+    outline: none;
+    border-color: purple;
+}

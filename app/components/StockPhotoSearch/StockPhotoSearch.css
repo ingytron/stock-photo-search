@@ -1,0 +1,6 @@
+@import 'variables';
+
+.StockPhotoSearch {
+    min-width: 800px;
+    margin: 0 auto;
+}

@@ -1,0 +1,14 @@
+@import 'variables';
+
+.ImagePreview {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+
+}
+
+.Image {
+    width: 100%;
+    overflow: hidden;
+}
