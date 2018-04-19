@@ -1,4 +1,4 @@
-A boilerplate for a React + TypeScript project.
+A React + TypeScript project for searching stock photos.
 
 ## What's included (Stack)
 * React
@@ -9,7 +9,7 @@ A boilerplate for a React + TypeScript project.
 
 ## Setup
 ```
-git clone git@github.com:kvendrik/project-template-react-ts.git
+git clone git@github.com:ingytron/project-template-react-ts.git
 cd project-template-react-ts
 rm -rf .git
 rm README.md
